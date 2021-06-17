@@ -7,6 +7,11 @@ var special = ["!", "#", "$", "%", "&", "'", "(", ")", "*", "+", "-", ".", "/", 
 // Assignment Code
 var generateBtn = document.querySelector("#generate");
 
+// TO-DO: 
+// Create generatePassword function that includes pop-up prompt to select desired character count and choose whether or not to include uppercase, lowercase, numeric and special characters
+// Within that function, set character minimum and maximum for length prompt
+// Code a way to include/leave out character types depending on user selection
+// Include return functionality if user chooses to cancel password generation
 function generatePassword() {
   
 }
