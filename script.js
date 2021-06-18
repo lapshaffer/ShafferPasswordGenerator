@@ -11,7 +11,7 @@ var generateBtn = document.querySelector("#generate");
 
 // TO-DO: 
 // Code a way to include/leave out character types depending on user selection
-// Include return functionality if user chooses to cancel password generation
+// Code second half of function to generate the password based on user inputs
   function generatePassword(){
     var passwordLength = window.prompt("Set your password length (8-128 characters)");
     if (!passwordLength) {
