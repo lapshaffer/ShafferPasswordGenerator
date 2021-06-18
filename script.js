@@ -11,7 +11,11 @@ var generateBtn = document.querySelector("#generate");
 
 // TO-DO: 
 // Code a way to include/leave out character types depending on user selection
+  // Append arrays into characters array upon user selection?
 // Code second half of function to generate the password based on user inputs
+  // Math.floor and Math.random()* characters.length to generate random number within characters array
+  // var characterChoice = character[index] stores that choice?
+  // and then run in a for loop for passwordLength number of times? and append each random choice to the end of the     password?
   function generatePassword(){
     var passwordLength = window.prompt("Set your password length (8-128 characters)");
     if (!passwordLength) {
