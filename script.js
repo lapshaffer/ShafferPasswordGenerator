@@ -83,6 +83,7 @@ var generateBtn = document.querySelector("#generate");
             // Put pre-selected characters in randomPassword array
             randomPassword = randomPassword.concat(typeSelection);
             // Store randomly selected values in randomPassword array with for loop
+            // Subtract typeSelection array length from passwordLength to ensure final password is the length the user specified
             for (var i = 0; i < (passwordLength - typeSelection.length); i++) {
                 var randomCharacterIndex = Math.floor(Math.random() * characters.length);
                 var randomCharacterSelection = characters[randomCharacterIndex];
