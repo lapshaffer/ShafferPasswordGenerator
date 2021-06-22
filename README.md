@@ -79,3 +79,8 @@ You are required to submit the following for review:
 * The URL of the deployed application.
 
 * The URL of the GitHub repository, with a unique name and a readme describing the project.
+
+### Finished Application
+
+This application is deployed at https://lapshaffer.github.io/ShafferPasswordGenerator/
+![ScreenshotofDeployedApplication] (assets/images/PasswordGeneratorScreenshot.JPG) 
