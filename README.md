@@ -34,3 +34,8 @@ THEN the password is either displayed in an alert or written to the page
 
 This application is deployed at https://lapshaffer.github.io/ShafferPasswordGenerator/
 ![ScreenshotofDeployedApplication] (assets/images/PasswordGeneratorScreenshot.JPG) 
+
+## Contact the Developer
+
+lapshaffer@gmail.com
+https://www.linkedin.com/in/lisa-shaffer-b29066198/
